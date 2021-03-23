@@ -1,1 +1,2 @@
-# project-32! In this project, you will be able to play a millitary training game! 
+# p5.play-boilerplate
+Boiler plate for p5.play
